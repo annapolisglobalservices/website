@@ -79,6 +79,8 @@
 <script src="/assets/plugins/flexSlider/jquery.flexslider-min.js"></script>
 <script src="/assets/plugins/countTo/jquery.countTo.js"></script>
 <script src="/assets/js/tracking.js"></script>
+<script src="/assets/plugins/validation/jquery.validate.js"></script>
+<script src="/assets/js/contact.js"></script>
 
 <!-- Main JS -->
 <script src="/assets/js/main.js"></script>

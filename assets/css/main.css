@@ -84,7 +84,6 @@ body {
     overflow-x: hidden;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  1.2. TEXT COLOR
 /*---------------------------------------------------------------------*/
@@ -95,7 +94,6 @@ body {
 .colored-text {
     color: #c80a48;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  1.3. ANCHOR
@@ -116,7 +114,6 @@ a:focus {
     text-decoration: none;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  1.4. HEADING
 /*---------------------------------------------------------------------*/
@@ -129,7 +126,6 @@ h6 {
     margin: 0;
     font-family: 'Raleway', sans-serif;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  2. COMPONENTS
@@ -162,7 +158,6 @@ h6 {
     }
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  2.2. DIVIDER
 /*---------------------------------------------------------------------*/
@@ -179,14 +174,12 @@ span.divider.center {
     margin-left: auto;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  2.3. UPPERCASE
 /*---------------------------------------------------------------------*/
 .uppercase {
     text-transform: uppercase;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  2.4. SELECT BOXES CUSTOM
@@ -246,7 +239,6 @@ span.divider.center {
     color: #ffffff;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  2.5. RADIO BUTTON CUSTOM
 /*---------------------------------------------------------------------*/
@@ -293,7 +285,6 @@ span.divider.center {
     text-align: center;
     line-height: 16px;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  2.6. CHECKBOX CUSTOM
@@ -342,7 +333,6 @@ span.divider.center {
     line-height: 16px;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  3. PRELOADER
 /*---------------------------------------------------------------------*/
@@ -359,7 +349,6 @@ span.divider.center {
     background-color: #c80a48;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  4. HOME
 /*---------------------------------------------------------------------*/
@@ -369,7 +358,7 @@ header.hero {
     z-index: 5;
     width: 100%;
     height: 100%;
-    background-image: url('../images/bg-hero.jpg');
+    background-image: url('/assets/img/bird-logo.png');
     background-repeat: no-repeat;
     background-position: center bottom;
     -webkit-background-size: cover;
@@ -398,7 +387,7 @@ header.hero .pattern-overlay {
     z-index: 15;
     width: 100%;
     height: 100%;
-    background-image: url('../images/bg-pattern.png');
+    background-image: url('../img/bg-pattern.png');
     background-repeat: repeat;
 }
 
@@ -521,14 +510,12 @@ header.hero .hero-body .hero-text .page-scroll {
     margin-top: 50px;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  4.1. TEXT SLIDER
 /*---------------------------------------------------------------------*/
 #text-slider .carousel-inner {
     padding-bottom: 3px;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  4.2. SLIDESHOW
@@ -538,7 +525,6 @@ header.hero .hero-body .hero-text .page-scroll {
         background: transparent;
     }
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  4.3. PARALLAX
@@ -557,7 +543,7 @@ header.hero.parallax-yes > .parallax > .bcg {
     display: table;
     width: 100%;
     height: 100%;
-    background-image: url('../images/bg-hero.jpg');
+    background-image: url('../img/bg-hero.jpg');
     background-repeat: no-repeat;
     background-position: center bottom;
     -webkit-background-size: cover;
@@ -571,7 +557,6 @@ header.hero.parallax-yes > .parallax > .bcg {
         background-attachment: fixed;
     }
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  4.4. BLINKER
@@ -611,7 +596,6 @@ header.hero.parallax-yes > .parallax > .bcg {
         opacity: 1.0;
     }
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  5. NAVIGATION
@@ -697,7 +681,6 @@ header.hero.parallax-yes > .parallax > .bcg {
     }
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  5.1. NAVIGATION - CENTER MENU
 /*---------------------------------------------------------------------*/
@@ -714,7 +697,6 @@ header.hero.parallax-yes > .parallax > .bcg {
         display: inline-block;
     }
 }
-
 
 /*---------------------------------------------------------------------*/
 /* 6. SECTION
@@ -857,7 +839,6 @@ header.hero.parallax-yes > .parallax > .bcg {
     background: rgba(0, 0, 0, 0.5);
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.1. SECTION - PROFILE
 /*---------------------------------------------------------------------*/
@@ -870,7 +851,6 @@ header.hero.parallax-yes > .parallax > .bcg {
         padding: 0px;
     }
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.1.1. PROFILE TEXT
@@ -909,7 +889,6 @@ header.hero.parallax-yes > .parallax > .bcg {
         padding-left: 20px;
     }
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.1.2. CONTACT DETAILS
@@ -975,7 +954,6 @@ header.hero.parallax-yes > .parallax > .bcg {
     }
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.1.3. PROFILE PICTURE
 /*---------------------------------------------------------------------*/
@@ -1005,7 +983,6 @@ header.hero.parallax-yes > .parallax > .bcg {
     text-align: center;
     letter-spacing: 2px;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.2. SECTION - PORTFOLIO
@@ -1123,7 +1100,6 @@ header.hero.parallax-yes > .parallax > .bcg {
     transition: all 0.4s ease-in-out;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.2.1. MAGNIFIC POP UP CUSTOM
 /*---------------------------------------------------------------------*/
@@ -1185,7 +1161,6 @@ button.mfp-arrow:active {
     border-left: none;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.2.2. MAGNIFIC POP CUSTOM - FADE EFFECT
 /*---------------------------------------------------------------------*/
@@ -1218,7 +1193,6 @@ button.mfp-arrow:active {
 .mfp-fade.mfp-wrap.mfp-removing .mfp-content {
     opacity: 0;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.3. SECTION - SERVICES
@@ -1323,12 +1297,11 @@ button.mfp-arrow:active {
     }
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.4. SECTION - STRENGHTS
 /*---------------------------------------------------------------------*/
 #strenghts {
-    background-image: url('../images/bg-strenghts.jpg');
+    background-image: url('../img/bg-strenghts.jpg');
     background-position: center top;
 }
 
@@ -1341,7 +1314,7 @@ button.mfp-arrow:active {
 }
 
 #strenghts.parallax-yes > .parallax > .bcg {
-    background-image: url('../images/bg-strenghts.jpg');
+    background-image: url('../img/bg-strenghts.jpg');
 }
 
 .column-chart {
@@ -1542,7 +1515,6 @@ button.mfp-arrow:active {
     }
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.5. SECTION - RESUME
 /*---------------------------------------------------------------------*/
@@ -1721,12 +1693,11 @@ button.mfp-arrow:active {
     margin-bottom: 0px;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.6. SECTION - REFERENCES
 /*---------------------------------------------------------------------*/
 #references {
-    background-image: url('../images/bg-references.jpg');
+    background-image: url('../img/bg-references.jpg');
 }
 
 #references .section-wrapper > .section-content {
@@ -1898,9 +1869,8 @@ button.mfp-arrow:active {
 }
 
 #references.parallax-yes > .parallax > .bcg {
-    background-image: url('../images/bg-references.jpg');
+    background-image: url('../img/bg-references.jpg');
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.7. SECTION - SKILLS
@@ -1989,7 +1959,6 @@ button.mfp-arrow:active {
     letter-spacing: 1px;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.8. SECTION - KNOWLEDGE
 /*---------------------------------------------------------------------*/
@@ -2064,7 +2033,6 @@ button.mfp-arrow:active {
     border-radius: 4px;
     box-shadow: 3px 3px 10px #0d0c0d;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.9. SECTION - ACCOLADES
@@ -2141,12 +2109,11 @@ button.mfp-arrow:active {
     font-size: 18px;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.10. SECTION - MILESTONES
 /*---------------------------------------------------------------------*/
 #milestones {
-    background-image: url("../images/bg-milestones.jpg");
+    background-image: url("../img/bg-milestones.jpg");
 }
 
 #milestones.parallax-yes {
@@ -2154,7 +2121,7 @@ button.mfp-arrow:active {
 }
 
 #milestones.parallax-yes > .parallax > .bcg {
-    background-image: url("../images/bg-milestones.jpg");
+    background-image: url("../img/bg-milestones.jpg");
 }
 
 .milestones {
@@ -2212,7 +2179,6 @@ button.mfp-arrow:active {
     font-size: 22px;
     font-weight: 700;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.11. SECTION - WORK PROCESS
@@ -2458,14 +2424,12 @@ button.mfp-arrow:active {
     }
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.12. SECTION - CONTACT
 /*---------------------------------------------------------------------*/
 #contact {
     background-color: #0d0c0d;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  6.12.1. CONTACT FORM
@@ -2488,6 +2452,7 @@ button.mfp-arrow:active {
 #contact .contact-form .form-group label.error {
     font-size: 14px;
     margin-top: 5px;
+    color: #c4131d;
 }
 
 #contact .contact-form .form-group .input-group {
@@ -2574,7 +2539,6 @@ button.mfp-arrow:active {
     box-shadow: none;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  6.12.2. CONTACT DETAILS
 /*---------------------------------------------------------------------*/
@@ -2622,7 +2586,6 @@ button.mfp-arrow:active {
     height: 4px;
 }
 
-
 /*---------------------------------------------------------------------*/
 /*  7. MAP
 /*---------------------------------------------------------------------*/
@@ -2649,7 +2612,6 @@ button.mfp-arrow:active {
     width: 100%;
     height: 400px;
 }
-
 
 /*---------------------------------------------------------------------*/
 /*  8. FOOTER
@@ -2728,4 +2690,9 @@ footer.footer .copyright {
 
 footer.footer .copyright p {
     font-size: 14px;
+}
+
+.nav-logo {
+    width: 301px;
+    max-height: 65px;
 }

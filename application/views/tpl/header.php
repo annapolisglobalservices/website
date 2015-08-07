@@ -38,7 +38,7 @@
     <link href="/assets/css/main.css" rel="stylesheet" type="text/css">
 
     <!-- Color CSS -->
-    <!--<link href="/assets/css/colors/green.css" rel="stylesheet" type="text/css">-->
+    <link href="/assets/css/colors/blue.css" rel="stylesheet" type="text/css">
 
     <!-- Modernizr JS for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 8]>

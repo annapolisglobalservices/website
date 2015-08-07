@@ -43,6 +43,9 @@
 
         <div class="navbar-collapse collapse berg-collapse">
             <ul class="nav navbar-nav">
+                <li>
+                    <img src="/assets/img/transparent-logo.png" class="nav-logo">
+                </li>
                 <li class="page-scroll">
                     <a href="#home">Home</a>
                 </li>
@@ -63,9 +66,9 @@
                 <!--<a href="#resume">Resume</a>-->
                 <!--</li>-->
 
-                <li class="page-scroll">
-                    <a href="#references">References</a>
-                </li>
+                <!--                <li class="page-scroll">-->
+                <!--                    <a href="#references">References</a>-->
+                <!--                </li>-->
                 <!---->
                 <!--<li class="page-scroll">-->
                 <!--<a href="#skills">Skills</a>-->
@@ -92,9 +95,9 @@
                 <!-- PROFILE PICTURE START -->
                 <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
                     <div class="profile-picture style-two">
-                        <img src="/assets/img/profile-picture-2.jpg" alt="profile picture" class="img-responsive"/>
+                        <img src="/assets/img/omo_stal.jpeg" alt="profile picture" class="img-responsive"/>
 
-                        <h4 class="title uppercase">CEO(Omo Pic)</h4>
+                        <h4 class="title uppercase">CEO</h4>
                     </div>
                 </div>
                 <!-- //PROFILE PICTURE END -->
@@ -408,10 +411,10 @@
                         <div class="inner-content">
                             <i class="icon-Chess colored-text"></i>
 
-                            <h4 class="uppercase">1. Strategy</h4>
+                            <h4 class="uppercase">1. Logistics</h4>
 
                             <p class="text-grey">
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                We can coordinate a detailed, complex operation involving many people, facilities, or supplies.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -420,9 +423,9 @@
 
                     <div class="col-sm-4 col-md-4 item top">
                         <div class="inner-content">
-                            <i class="icon-Leafs-2 colored-text"></i>
+                            <i class="icon-Shield colored-text"></i>
 
-                            <h4 class="uppercase">2. Branding</h4>
+                            <h4 class="uppercase">2. Security</h4>
 
                             <p class="text-grey">
                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
@@ -434,12 +437,12 @@
 
                     <div class="col-sm-4 col-md-4 item top dark-bg">
                         <div class="inner-content">
-                            <i class=" icon-Transform-2 colored-text"></i>
+                            <i class="icon-Crane colored-text"></i>
 
                             <h4 class="uppercase">3. Construction</h4>
 
                             <p class="text-grey">
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                Let us take care of all your construction needs, from shovels to dump trucks, we can handle it.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -451,9 +454,9 @@
                 <div class="row">
                     <div class="col-sm-4 col-md-4 item">
                         <div class="inner-content">
-                            <i class="icon-Speach-Bubble3 colored-text"></i>
+                            <i class="icon-The-WhiteHouse colored-text"></i>
 
-                            <h4 class="uppercase">4. Security</h4>
+                            <h4 class="uppercase">4. Real Estate</h4>
 
                             <p class="text-grey">
                                 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
@@ -465,12 +468,12 @@
 
                     <div class="col-sm-4 col-md-4 item dark-bg">
                         <div class="inner-content">
-                            <i class="icon-Monitor-Tablet colored-text"></i>
+                            <i class="icon-Management colored-text"></i>
 
-                            <h4 class="uppercase">5. Development</h4>
+                            <h4 class="uppercase">5. Project Management</h4>
 
                             <p class="text-grey">
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                Project management is the application of processes, methods, knowledge, skills and experience to achieve the project objectives.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -484,7 +487,7 @@
                             <h4 class="uppercase">6. Consulting</h4>
 
                             <p class="text-grey">
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+                                We will provide you with expert advice professionally and effectively.
                             </p>
                         </div>
                         <!-- //.inner-content -->
@@ -937,201 +940,201 @@
 
 
 <!-- REFERENCES SECTION START -->
-<section id="references" class="section bg-image-yes">
-    <div class="container-fluid section-wrapper">
-        <div class="section-content">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <h2 class="section-title uppercase">References</h2>
-
-                    <p class="section-subtitle">Testimonials are enough to convince people for now.</p>
-
-                    <span class="divider center"></span>
-                </div>
-                <!-- //.col-md-12 -->
-            </div>
-            <!-- //.row -->
-
-            <div class="row">
-                <div class="col-md-10 col-md-offset-1">
-                    <div class="flexslider references">
-                        <div class="slides">
-                            <div class="item">
-                                <div class="animated" data-animation-effect="flipInX">
-                                    <div class="profile hidden-xs">
-                                        <img src="/assets/img/references/profile-image-1.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                    </div>
-
-                                    <div class="content">
-                                        <h3>Random Group</h3>
-
-                                        <p>
-                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
-                                        </p>
-
-                                        <p class="source">
-                                            June South
-                                            <br>
-                                            <span>President Director</span>
-                                        </p>
-                                    </div>
-                                    <!-- //.content -->
-                                </div>
-                                <!-- //.animated -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <div class="animated" data-animation-effect="flipInX">
-                                    <div class="profile hidden-xs">
-                                        <img src="/assets/img/references/profile-image-2.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                    </div>
-
-                                    <div class="content">
-                                        <h3>TV Station</h3>
-
-                                        <p>
-                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
-                                        </p>
-
-                                        <p class="source">
-                                            Kelo Thorten
-                                            <br>
-                                            <span>CO-FOUNDER / CEO</span>
-                                        </p>
-                                    </div>
-                                    <!-- //.content -->
-                                </div>
-                                <!-- //.animated -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <div class="animated" data-animation-effect="flipInX">
-                                    <div class="profile hidden-xs">
-                                        <img src="/assets/img/references/profile-image-3.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                    </div>
-
-                                    <div class="content">
-                                        <h3>HRT Group</h3>
-
-                                        <p>
-                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis:)"
-                                        </p>
-
-                                        <p class="source">
-                                            Mary Jackson
-                                            <br>
-                                            <span>President Director</span>
-                                        </p>
-                                    </div>
-                                    <!-- //.content -->
-                                </div>
-                                <!-- //.animated -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <div class="animated" data-animation-effect="flipInX">
-                                    <div class="profile hidden-xs">
-                                        <img src="/assets/img/references/profile-image-4.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                    </div>
-
-                                    <div class="content">
-                                        <h3>TY Corp</h3>
-
-                                        <p>
-                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl!"
-                                        </p>
-
-                                        <p class="source">
-                                            Randy Kold
-                                            <br>
-                                            <span>Founder and Chairman</span>
-                                        </p>
-                                    </div>
-                                    <!-- //.content -->
-                                </div>
-                                <!-- //.animated -->
-                            </div>
-                            <!-- //.item -->
-
-                            <div class="item">
-                                <div class="animated" data-animation-effect="flipInX">
-                                    <div class="profile hidden-xs">
-                                        <img src="/assets/img/references/profile-image-5.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>
-                                    </div>
-
-                                    <div class="content">
-                                        <h3>Jameson Corp</h3>
-
-                                        <p>
-                                            "Torem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."
-                                        </p>
-
-                                        <p class="source">
-                                            Iotu Teowuj
-                                            <br>
-                                            <span>President Director</span>
-                                        </p>
-                                    </div>
-                                    <!-- //.content -->
-                                </div>
-                                <!-- //.animated -->
-                            </div>
-                            <!-- //.item -->
-                        </div>
-                        <!-- //.slides -->
-
-                        <div class="flexslider-controls">
-                            <ul class="flex-control-nav">
-                                <li>
-                                    <img src="/assets/img/references/profile-image-1.jpg" alt="" class="img-responsive"/>
-                                </li>
-
-                                <li>
-                                    <img src="/assets/img/references/profile-image-2.jpg" alt="" class="img-responsive"/>
-                                </li>
-
-                                <li>
-                                    <img src="/assets/img/references/profile-image-3.jpg" alt="" class="img-responsive"/>
-                                </li>
-
-                                <li>
-                                    <img src="/assets/img/references/profile-image-4.jpg" alt="" class="img-responsive"/>
-                                </li>
-
-                                <li>
-                                    <img src="/assets/img/references/profile-image-5.jpg" alt="" class="img-responsive"/>
-                                </li>
-                            </ul>
-                        </div>
-                        <!-- //.flexslider-controls -->
-
-                        <ul class="flex-direction-nav-custom list-inline hidden-xs">
-                            <li>
-                                <a class="flex-prev" href="#">
-                                    <i class="icon-Left-3"></i>
-                                </a>
-                            </li>
-
-                            <li>
-                                <a class="flex-next" href="#">
-                                    <i class="icon-Right-3"></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- //.flexslider -->
-                </div>
-                <!-- //.col-md-8 -->
-            </div>
-            <!-- //.row -->
-        </div>
-        <!-- //.section-content -->
-    </div>
-    <!-- //.container -->
-</section>
+<!--<section id="references" class="section bg-image-yes">-->
+<!--    <div class="container-fluid section-wrapper">-->
+<!--        <div class="section-content">-->
+<!--            <div class="row">-->
+<!--                <div class="col-md-12 text-center">-->
+<!--                    <h2 class="section-title uppercase">References</h2>-->
+<!---->
+<!--                    <p class="section-subtitle">Testimonials are enough to convince people for now.</p>-->
+<!---->
+<!--                    <span class="divider center"></span>-->
+<!--                </div>-->
+<!--                <!-- //.col-md-12 -->
+<!--            </div>-->
+<!--            <!-- //.row -->
+<!---->
+<!--            <div class="row">-->
+<!--                <div class="col-md-10 col-md-offset-1">-->
+<!--                    <div class="flexslider references">-->
+<!--                        <div class="slides">-->
+<!--                            <div class="item">-->
+<!--                                <div class="animated" data-animation-effect="flipInX">-->
+<!--                                    <div class="profile hidden-xs">-->
+<!--                                        <img src="/assets/img/references/profile-image-1.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>-->
+<!--                                    </div>-->
+<!---->
+<!--                                    <div class="content">-->
+<!--                                        <h3>Random Group</h3>-->
+<!---->
+<!--                                        <p>-->
+<!--                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."-->
+<!--                                        </p>-->
+<!---->
+<!--                                        <p class="source">-->
+<!--                                            June South-->
+<!--                                            <br>-->
+<!--                                            <span>President Director</span>-->
+<!--                                        </p>-->
+<!--                                    </div>-->
+<!--                                    <!-- //.content -->
+<!--                                </div>-->
+<!--                                <!-- //.animated -->
+<!--                            </div>-->
+<!--                            <!-- //.item -->
+<!---->
+<!--                            <div class="item">-->
+<!--                                <div class="animated" data-animation-effect="flipInX">-->
+<!--                                    <div class="profile hidden-xs">-->
+<!--                                        <img src="/assets/img/references/profile-image-2.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>-->
+<!--                                    </div>-->
+<!---->
+<!--                                    <div class="content">-->
+<!--                                        <h3>TV Station</h3>-->
+<!---->
+<!--                                        <p>-->
+<!--                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."-->
+<!--                                        </p>-->
+<!---->
+<!--                                        <p class="source">-->
+<!--                                            Kelo Thorten-->
+<!--                                            <br>-->
+<!--                                            <span>CO-FOUNDER / CEO</span>-->
+<!--                                        </p>-->
+<!--                                    </div>-->
+<!--                                    <!-- //.content -->
+<!--                                </div>-->
+<!--                                <!-- //.animated -->
+<!--                            </div>-->
+<!--                            <!-- //.item -->
+<!---->
+<!--                            <div class="item">-->
+<!--                                <div class="animated" data-animation-effect="flipInX">-->
+<!--                                    <div class="profile hidden-xs">-->
+<!--                                        <img src="/assets/img/references/profile-image-3.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>-->
+<!--                                    </div>-->
+<!---->
+<!--                                    <div class="content">-->
+<!--                                        <h3>HRT Group</h3>-->
+<!---->
+<!--                                        <p>-->
+<!--                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis:)"-->
+<!--                                        </p>-->
+<!---->
+<!--                                        <p class="source">-->
+<!--                                            Mary Jackson-->
+<!--                                            <br>-->
+<!--                                            <span>President Director</span>-->
+<!--                                        </p>-->
+<!--                                    </div>-->
+<!--                                    <!-- //.content -->
+<!--                                </div>-->
+<!--                                <!-- //.animated -->
+<!--                            </div>-->
+<!--                            <!-- //.item -->
+<!---->
+<!--                            <div class="item">-->
+<!--                                <div class="animated" data-animation-effect="flipInX">-->
+<!--                                    <div class="profile hidden-xs">-->
+<!--                                        <img src="/assets/img/references/profile-image-4.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>-->
+<!--                                    </div>-->
+<!---->
+<!--                                    <div class="content">-->
+<!--                                        <h3>TY Corp</h3>-->
+<!---->
+<!--                                        <p>-->
+<!--                                            "orem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl!"-->
+<!--                                        </p>-->
+<!---->
+<!--                                        <p class="source">-->
+<!--                                            Randy Kold-->
+<!--                                            <br>-->
+<!--                                            <span>Founder and Chairman</span>-->
+<!--                                        </p>-->
+<!--                                    </div>-->
+<!--                                    <!-- //.content -->
+<!--                                </div>-->
+<!--                                <!-- //.animated -->
+<!--                            </div>-->
+<!--                            <!-- //.item -->
+<!---->
+<!--                            <div class="item">-->
+<!--                                <div class="animated" data-animation-effect="flipInX">-->
+<!--                                    <div class="profile hidden-xs">-->
+<!--                                        <img src="/assets/img/references/profile-image-5.jpg" alt="" class="img-responsive img-circle img-thumbnail"/>-->
+<!--                                    </div>-->
+<!---->
+<!--                                    <div class="content">-->
+<!--                                        <h3>Jameson Corp</h3>-->
+<!---->
+<!--                                        <p>-->
+<!--                                            "Torem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat."-->
+<!--                                        </p>-->
+<!---->
+<!--                                        <p class="source">-->
+<!--                                            Iotu Teowuj-->
+<!--                                            <br>-->
+<!--                                            <span>President Director</span>-->
+<!--                                        </p>-->
+<!--                                    </div>-->
+<!--                                    <!-- //.content -->
+<!--                                </div>-->
+<!--                                <!-- //.animated -->
+<!--                            </div>-->
+<!--                            <!-- //.item -->
+<!--                        </div>-->
+<!--                        <!-- //.slides -->
+<!---->
+<!--                        <div class="flexslider-controls">-->
+<!--                            <ul class="flex-control-nav">-->
+<!--                                <li>-->
+<!--                                    <img src="/assets/img/references/profile-image-1.jpg" alt="" class="img-responsive"/>-->
+<!--                                </li>-->
+<!---->
+<!--                                <li>-->
+<!--                                    <img src="/assets/img/references/profile-image-2.jpg" alt="" class="img-responsive"/>-->
+<!--                                </li>-->
+<!---->
+<!--                                <li>-->
+<!--                                    <img src="/assets/img/references/profile-image-3.jpg" alt="" class="img-responsive"/>-->
+<!--                                </li>-->
+<!---->
+<!--                                <li>-->
+<!--                                    <img src="/assets/img/references/profile-image-4.jpg" alt="" class="img-responsive"/>-->
+<!--                                </li>-->
+<!---->
+<!--                                <li>-->
+<!--                                    <img src="/assets/img/references/profile-image-5.jpg" alt="" class="img-responsive"/>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+<!--                        </div>-->
+<!--                        <!-- //.flexslider-controls -->
+<!---->
+<!--                        <ul class="flex-direction-nav-custom list-inline hidden-xs">-->
+<!--                            <li>-->
+<!--                                <a class="flex-prev" href="#">-->
+<!--                                    <i class="icon-Left-3"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!---->
+<!--                            <li>-->
+<!--                                <a class="flex-next" href="#">-->
+<!--                                    <i class="icon-Right-3"></i>-->
+<!--                                </a>-->
+<!--                            </li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
+<!--                    <!-- //.flexslider -->
+<!--                </div>-->
+<!--                <!-- //.col-md-8 -->
+<!--            </div>-->
+<!--            <!-- //.row -->
+<!--        </div>-->
+<!--        <!-- //.section-content -->
+<!--    </div>-->
+<!--    <!-- //.container -->
+<!--</section>-->
 <!-- //REFERENCES SECTION END -->
 <!---->
 <!---->
@@ -1668,7 +1671,7 @@
         <div class="section-content">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2 class="section-title uppercase">Contact Me</h2>
+                    <h2 class="section-title uppercase">Contact Us</h2>
 
                     <p class="section-subtitle">
                         Have a project you'd like to discuss?
@@ -1681,28 +1684,78 @@
             <!-- //.row -->
 
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-8 col-md-offset-2">
 
-                    <!-- CONTACT DETAILS START -->
-                    <div class="contact-details text-center">
-                        <div class="speech-bubble">
-                            <i class="icon-Speach-Bubble11"></i>
+                    <!-- CONTACT FORM START -->
+                    <form action="/contact/json_submit.html" method="post" name="contact-form" id="contact-form" class="contact-form validate element-line" role="form">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="input-group input-group-lg">
+                                        <input type="text" name="name" id="name" class="form-control required" placeholder="Name" autocomplete="off">
+                                    </div>
+                                    <!-- //.input-group -->
+                                </div>
+                                <!-- //.form-group -->
+                            </div>
+                            <!-- //.col-md-6 -->
 
-                            <h4 class="uppercase text-grey">
-                                Say<br>Hello
-                            </h4>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="input-group input-group-lg">
+                                        <input type="email" name="email" id="email" class="form-control required email" placeholder="Email" autocomplete="off">
+                                    </div>
+                                    <!-- //.input-group -->
+                                </div>
+                                <!-- //.form-group -->
+                            </div>
+                            <!-- //.col-md-6 -->
                         </div>
-                        <!-- //.speech-bubble -->
+                        <!-- //.row -->
 
-                        <h2 class="uppercase">Annapolis <strong>Global Services</strong></h2>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="input-group input-group-lg">
+                                        <input type="text" name="subject" id="subject" class="form-control required" placeholder="Subject" autocomplete="off">
+                                    </div>
+                                    <!-- //.input-group -->
+                                </div>
+                                <!-- //.form-group -->
+                            </div>
+                            <!-- //.col-md-12 -->
+                        </div>
+                        <!-- //.row -->
 
-                        <h4 class="text-grey">hello@annapoliglobalservice.com</h4>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="input-group input-group-lg">
+                                        <textarea name="message" id="message" class="form-control required" placeholder="Message"></textarea>
+                                    </div>
+                                    <!-- //.input-group -->
+                                </div>
+                                <!-- //.form-group -->
+                            </div>
+                            <!-- //.col-md-12 -->
+                        </div>
+                        <!-- //.row -->
 
-                        <span class="divider center"></span>
-                    </div>
-                    <!-- //CONTACT DETAILS END -->
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <button id="submit" type="submit">Send It</button>
+                                </div>
+                                <!-- //.form-group -->
+                            </div>
+                            <!-- //.col-md-12 -->
+                        </div>
+                        <!-- //.row -->
+                    </form>
+                    <!-- //CONTACT FORM END -->
+
                 </div>
-                <!-- //.col-md-12 -->
+                <!-- //.col-md-8 -->
             </div>
             <!-- //.row -->
         </div>
