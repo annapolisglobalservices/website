@@ -133,25 +133,41 @@
                     <!-- CONTACT DETAILS START -->
                     <div class="contact-details padding-left-yes">
                         <div class="row">
-                            <div class="col-sm-6 col-md-5">
+                            <div clas="col-md-12">
                                 <h4 class="uppercase">Contact Details</h4>
-
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-4 col-md-4">
                                 <ul class="list-unstyled text-grey">
-                                    <li>Annapolis Global Services</li>
-                                    <li>123 Water Ln.</li>
+                                    <li><b>Main Office</b></li>
+                                    <li>No 1A Azinge Cresent GRA</li>
+                                    <li>(off Adesuwa / Adeyaen Rd.)</li>
+                                    <li>Benin City, Edo State, Nigeria</li>
                                     <li>+123 456 7890</li>
-                                    <li>hello@annapolisglobalservices.com</li>
-                                    <li>www.annapolisglobalservices.com</li>
+                                    <li>domoogiefo@annapolisgs.com</li>
                                 </ul>
                             </div>
-                            <!-- //.col-md-5 -->
-
-                            <div class="col-sm-6 col-md-7">
-                                <a href="#" class="btn btn-lg btn-custom">
-                                    <i class="icon-File-Download"></i> Download Something
-                                </a>
+                            <div class="col-sm-4 col-md-4">
+                                <ul class="list-unstyled text-grey">
+                                    <li><b>Abuja Office</b></li>
+                                    <li>No 8 Keyes Street</li>
+                                    <li>(off Nouakchott Cresent)</li>
+                                    <li>Wize Zone 1, Abuja, Nigeria</li>
+                                    <li>+123 456 7890</li>
+                                    <li>abuja@annapolisgs.com</li>
+                                </ul>
                             </div>
-                            <!-- //.col-md-6 -->
+                            <div class="col-sm-4 col-md-4">
+                                <ul class="list-unstyled text-grey">
+                                    <li><b>Lagos Office</b></li>
+                                    <li>Suite E288 Ikota Shopping Complex</li>
+                                    <li>(by VGC)</li>
+                                    <li>Ajah, Lagos State, Nigeria</li>
+                                    <li>+123 456 7890</li>
+                                    <li>lagos@annapolisgs.com</li>
+                                </ul>
+                            </div>
                         </div>
                         <!-- //.row -->
                     </div>
