@@ -11,7 +11,7 @@
     <meta charset="utf-8">
 
     <!-- Site Title -->
-    <title>Annapoli Global Services</title>
+    <title>Annapolis Global Services</title>
 
     <meta name="description" content="Annapolis Global Services">
     <meta name="keywords" content="annapolis, services, global, security">

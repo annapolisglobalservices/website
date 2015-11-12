@@ -1,525 +1,472 @@
 <!-- HERO START -->
 <header id="home" class="hero">
-    <div class="pattern-overlay"></div>
+	<div class="pattern-overlay"></div>
 
-    <div class="hero-body">
-        <div class="hero-text text-center">
-            <h1 class="small">
-                Annapolis Global Services<span class="blinker"></span>
-            </h1>
+	<div class="hero-body">
+		<div class="hero-text text-center">
+			<h1 class="small">
+				Annapolis Global Services<span class="blinker"></span>
+			</h1>
 
-            <h2>Security, Construction needs</h2>
+			<h2>Security, Construction needs</h2>
 
-            <p>Brief Description</p>
+			<p>Brief Description</p>
 
-            <div class="page-scroll">
-                <a href="#profile" class="btn btn-lg btn-custom">
-                    Know Us Better
-                </a>
-            </div>
-            <!-- //.page-scroll -->
-        </div>
-        <!-- //.hero-text -->
-    </div>
-    <!-- //.hero-body -->
+			<div class="page-scroll">
+				<a href="#profile" class="btn btn-lg btn-custom">
+					Know Us Better
+				</a>
+			</div>
+			<!-- //.page-scroll -->
+		</div>
+		<!-- //.hero-text -->
+	</div>
+	<!-- //.hero-body -->
 </header>
 <!-- //HERO END -->
 
-
 <!-- NAVIGATION START -->
 <nav id="navigation" class="navbar navbar-fixed-top center-menu" role="navigation">
-    <div class="container navbar-container">
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".berg-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
+	<div class="container navbar-container">
+		<div class="navbar-header page-scroll">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".berg-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
 
-            <a class="navbar-brand visible-xs visible-sm" href="#page-top">Annapolis</a>
-        </div>
-        <!-- //.navbar-header -->
+			<a class="navbar-brand visible-xs visible-sm" href="#page-top">Annapolis</a>
+		</div>
+		<!-- //.navbar-header -->
 
-        <div class="navbar-collapse collapse berg-collapse">
-            <ul class="nav navbar-nav">
-                <li>
-                    <img src="/assets/img/transparent-logo.png" class="nav-logo">
-                </li>
-                <li class="page-scroll">
-                    <a href="#home">Home</a>
-                </li>
+		<div class="navbar-collapse collapse berg-collapse">
+			<ul class="nav navbar-nav">
+				<li>
+					<img src="/assets/img/transparent-logo.png" class="nav-logo">
+				</li>
+				<li class="page-scroll">
+					<a href="#home">Home</a>
+				</li>
 
-                <li class="page-scroll">
-                    <a href="#profile">Profile</a>
-                </li>
+				<li class="page-scroll">
+					<a href="#profile">Profile</a>
+				</li>
 
-                <li class="page-scroll">
-                    <a href="#portfolio">Portfolio</a>
-                </li>
+				<li class="page-scroll">
+					<a href="#portfolio">Portfolio</a>
+				</li>
 
-                <li class="page-scroll">
-                    <a href="#services">Services</a>
-                </li>
+				<li class="page-scroll">
+					<a href="#services">Services</a>
+				</li>
 
-                <!--<li class="page-scroll">-->
-                <!--<a href="#resume">Resume</a>-->
-                <!--</li>-->
+				<!--<li class="page-scroll">-->
+				<!--<a href="#resume">Resume</a>-->
+				<!--</li>-->
 
-                <!--                <li class="page-scroll">-->
-                <!--                    <a href="#references">References</a>-->
-                <!--                </li>-->
-                <!---->
-                <!--<li class="page-scroll">-->
-                <!--<a href="#skills">Skills</a>-->
-                <!--</li>-->
+				<!--                <li class="page-scroll">-->
+				<!--                    <a href="#references">References</a>-->
+				<!--                </li>-->
+				<!---->
+				<!--<li class="page-scroll">-->
+				<!--<a href="#skills">Skills</a>-->
+				<!--</li>-->
 
-                <li class="page-scroll">
-                    <a href="#contact">Contact</a>
-                </li>
-            </ul>
-        </div>
-        <!-- //.navbar-collapse -->
-    </div>
-    <!-- //.navbar-container -->
+				<li class="page-scroll">
+					<a href="#contact">Contact</a>
+				</li>
+			</ul>
+		</div>
+		<!-- //.navbar-collapse -->
+	</div>
+	<!-- //.navbar-container -->
 </nav>
 <!-- //NAVIGATION END -->
 
-
 <!-- PROFILE SECTION START -->
 <section id="profile" class="section">
-    <div class="container section-wrapper">
-        <div class="section-content">
-            <div class="row">
+	<div class="container section-wrapper">
+		<div class="section-content">
+			<div class="row">
 
-                <!-- PROFILE PICTURE START -->
-                <div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
-                    <div class="profile-picture style-two">
-                        <img src="/assets/img/omo_stal.jpeg" alt="profile picture" class="img-responsive"/>
+				<!-- PROFILE PICTURE START -->
+				<div class="col-md-4 hidden-xs hidden-sm match-height pp-wrapper">
+					<div class="profile-picture style-two">
+						<img src="/assets/img/omo_stal.jpeg" alt="profile picture" class="img-responsive"/>
 
-                        <h4 class="title uppercase">CEO</h4>
-                    </div>
-                </div>
-                <!-- //PROFILE PICTURE END -->
+						<h4 class="title uppercase">CEO</h4>
+					</div>
+				</div>
+				<!-- //PROFILE PICTURE END -->
 
-                <div class="col-md-8 match-height">
+				<div class="col-md-8 match-height">
 
-                    <!-- PROFILE TEXT START -->
-                    <div class="profile-text padding-left-yes">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <h2 class="section-title uppercase">Hello, My Name is Blah Blah.</h2>
+					<!-- PROFILE TEXT START -->
+					<div class="profile-text padding-left-yes">
+						<div class="row">
+							<div class="col-md-12">
+								<h2 class="section-title uppercase">Hello, My Name is Blah Blah.</h2>
 
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                                </p>
+								<p>
+									Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+								</p>
 
-                                <span class="divider"></span>
+								<span class="divider"></span>
 
-                                <p class="text-grey">
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                                </p>
+								<p class="text-grey">
+									Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+								</p>
 
-                                <p class="text-grey">
-                                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
-                                </p>
-                            </div>
-                            <!-- //.col-md-12 -->
-                        </div>
-                        <!-- //.row -->
-                    </div>
-                    <!-- //PROFILE TEXT END -->
+								<p class="text-grey">
+									Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+								</p>
+							</div>
+							<!-- //.col-md-12 -->
+						</div>
+						<!-- //.row -->
+					</div>
+					<!-- //PROFILE TEXT END -->
 
-                    <!-- CONTACT DETAILS START -->
-                    <div class="contact-details padding-left-yes">
-                        <div class="row">
-                            <div clas="col-md-12">
-                                <h4 class="uppercase">Contact Details</h4>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-sm-4 col-md-4">
-                                <ul class="list-unstyled text-grey">
-                                    <li><b>Main Office</b></li>
-                                    <li>No 1A Azinge Cresent GRA</li>
-                                    <li>(off Adesuwa / Adeyaen Rd.)</li>
-                                    <li>Benin City, Edo State, Nigeria</li>
-                                    <li>+123 456 7890</li>
-                                    <li>domoogiefo@annapolisgs.com</li>
-                                </ul>
-                            </div>
-                            <div class="col-sm-4 col-md-4">
-                                <ul class="list-unstyled text-grey">
-                                    <li><b>Abuja Office</b></li>
-                                    <li>No 8 Keyes Street</li>
-                                    <li>(off Nouakchott Cresent)</li>
-                                    <li>Wize Zone 1, Abuja, Nigeria</li>
-                                    <li>+123 456 7890</li>
-                                    <li>abuja@annapolisgs.com</li>
-                                </ul>
-                            </div>
-                            <div class="col-sm-4 col-md-4">
-                                <ul class="list-unstyled text-grey">
-                                    <li><b>Lagos Office</b></li>
-                                    <li>Suite E288 Ikota Shopping Complex</li>
-                                    <li>(by VGC)</li>
-                                    <li>Ajah, Lagos State, Nigeria</li>
-                                    <li>+123 456 7890</li>
-                                    <li>lagos@annapolisgs.com</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <!-- //.row -->
-                    </div>
-                    <!-- //CONTACT DETAILS END -->
+					<!-- CONTACT DETAILS START -->
+					<div class="contact-details padding-left-yes">
+						<div class="row">
+							<div clas="col-md-12">
+								<h4 class="uppercase">Contact Details</h4>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-sm-4 col-md-4">
+								<ul class="list-unstyled text-grey">
+									<li><b>Main Office</b></li>
+									<li>No 1A Azinge Cresent GRA</li>
+									<li>(off Adesuwa / Adeyaen Rd.)</li>
+									<li>Benin City, Edo State, Nigeria</li>
+									<li>+123 456 7890</li>
+									<li>domoogiefo@annapolisgs.com</li>
+								</ul>
+							</div>
+							<div class="col-sm-4 col-md-4">
+								<ul class="list-unstyled text-grey">
+									<li><b>Abuja Office</b></li>
+									<li>No 8 Keyes Street</li>
+									<li>(off Nouakchott Cresent)</li>
+									<li>Wize Zone 1, Abuja, Nigeria</li>
+									<li>+123 456 7890</li>
+									<li>abuja@annapolisgs.com</li>
+								</ul>
+							</div>
+							<div class="col-sm-4 col-md-4">
+								<ul class="list-unstyled text-grey">
+									<li><b>Lagos Office</b></li>
+									<li>Suite E288 Ikota Shopping Complex</li>
+									<li>(by VGC)</li>
+									<li>Ajah, Lagos State, Nigeria</li>
+									<li>+123 456 7890</li>
+									<li>lagos@annapolisgs.com</li>
+								</ul>
+							</div>
+						</div>
+						<!-- //.row -->
+					</div>
+					<!-- //CONTACT DETAILS END -->
 
-                </div>
-                <!-- //.col-md-8 -->
-            </div>
-            <!-- //.row -->
-        </div>
-        <!-- //.section-content -->
-    </div>
-    <!-- //.container -->
+				</div>
+				<!-- //.col-md-8 -->
+			</div>
+			<!-- //.row -->
+		</div>
+		<!-- //.section-content -->
+	</div>
+	<!-- //.container -->
 </section>
 <!-- //PROFILE SECTION END -->
 
-
 <!-- PORTFOLIO SECTION START -->
 <section id="portfolio" class="section">
-    <div class="container-fluid section-wrapper">
-        <div class="section-content">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <h2 class="section-title uppercase">Our Latest Work</h2>
+	<div class="container-fluid section-wrapper">
+		<div class="section-content">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h2 class="section-title uppercase">Check us Out!</h2>
 
-                    <p class="section-subtitle"> Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+					<p class="section-subtitle"> Look at some of the great things we can do!</p>
 
-                    <span class="divider center"></span>
-                </div>
-                <!-- //.col-md-12 -->
-            </div>
-            <!-- //.row -->
+					<span class="divider center"></span>
+				</div>
+				<!-- //.col-md-12 -->
+			</div>
+			<!-- //.row -->
 
-            <!-- PORTFOLIO START -->
-            <div class="portfolio">
-                <div class="row">
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-1.jpg" class="zoom" title="Security">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
+			<!-- PORTFOLIO START -->
+			<div class="portfolio">
+				<div class="row">
+					<div class="item col-sm-6 col-md-4">
+						<div class="project-wrapper">
+							<div class="project-link">
+								<a href="/assets/img/portfolio/security-orig.jpg" class="zoom" title="Security">
+									<i class="icon-Full-Screen"></i>
+								</a>
 
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
+								<!--								<a href="#" target="_blank" class="external-link">-->
+								<!--									<i class="icon-Link"></i>-->
+								<!--								</a>-->
+							</div>
+							<!-- //.project-link -->
 
-                            <div class="project-title">
-                                <h4>Security</h4>
-                            </div>
-                            <!-- //.project-title -->
+							<div class="project-title">
+								<h4>Security</h4>
+							</div>
+							<!-- //.project-title -->
 
-                            <img src="/assets/img/portfolio/project-image-1.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
+							<img src="/assets/img/portfolio/security.jpg" alt="" class="img-responsive"/>
+						</div>
+						<!-- //.project-wrapper -->
+					</div>
+					<!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-2.jpg" class="zoom" title="Construction">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
+					<div class="item col-sm-6 col-md-4">
+						<div class="project-wrapper">
+							<div class="project-link">
+								<a href="/assets/img/portfolio/construction-orig.jpg" class="zoom" title="Construction">
+									<i class="icon-Full-Screen"></i>
+								</a>
 
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
+								<!--								<a href="#" target="_blank" class="external-link">-->
+								<!--									<i class="icon-Link"></i>-->
+								<!--								</a>-->
+							</div>
+							<!-- //.project-link -->
 
-                            <div class="project-title">
-                                <h4>Construction</h4>
-                            </div>
-                            <!-- //.project-title -->
+							<div class="project-title">
+								<h4>Construction</h4>
+							</div>
+							<!-- //.project-title -->
 
-                            <img src="/assets/img/portfolio/project-image-2.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-1.jpg" class="zoom" title="Security">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
+							<img src="/assets/img/portfolio/construction.jpg" alt="" class="img-responsive"/>
+						</div>
+						<!-- //.project-wrapper -->
+					</div>
+					<!-- //.item -->
+					<div class="item col-sm-6 col-md-4">
+						<div class="project-wrapper">
+							<div class="project-link">
+								<a href="/assets/img/portfolio/logistics-orig.jpg" class="zoom" title="Logistics">
+									<i class="icon-Full-Screen"></i>
+								</a>
 
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
+								<!--								<a href="#" target="_blank" class="external-link">-->
+								<!--									<i class="icon-Link"></i>-->
+								<!--								</a>-->
+							</div>
+							<!-- //.project-link -->
 
-                            <div class="project-title">
-                                <h4>Security</h4>
-                            </div>
-                            <!-- //.project-title -->
+							<div class="project-title">
+								<h4>Logistics</h4>
+							</div>
+							<!-- //.project-title -->
 
-                            <img src="/assets/img/portfolio/project-image-1.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
+							<img src="/assets/img/portfolio/logistics.jpg" alt="" class="img-responsive"/>
+						</div>
+						<!-- //.project-wrapper -->
+					</div>
+					<!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-2.jpg" class="zoom" title="Construction">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
+					<div class="item col-sm-6 col-md-4">
+						<div class="project-wrapper">
+							<div class="project-link">
+								<a href="/assets/img/portfolio/real-estate-orig.jpg" class="zoom" title="Real Estate">
+									<i class="icon-Full-Screen"></i>
+								</a>
 
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
+								<!--								<a href="#" target="_blank" class="external-link">-->
+								<!--									<i class="icon-Link"></i>-->
+								<!--								</a>-->
+							</div>
+							<!-- //.project-link -->
 
-                            <div class="project-title">
-                                <h4>Construction</h4>
-                            </div>
-                            <!-- //.project-title -->
+							<div class="project-title">
+								<h4>Real Estate</h4>
+							</div>
+							<!-- //.project-title -->
 
-                            <img src="/assets/img/portfolio/project-image-2.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-1.jpg" class="zoom" title="Security">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
+							<img src="/assets/img/portfolio/real-estate.jpg" alt="" class="img-responsive"/>
+						</div>
+						<!-- //.project-wrapper -->
+					</div>
+					<!-- //.item -->
+					<div class="item col-sm-6 col-md-4">
+						<div class="project-wrapper">
+							<div class="project-link">
+								<a href="/assets/img/portfolio/project-management-orig.jpg" class="zoom" title="Project Management">
+									<i class="icon-Full-Screen"></i>
+								</a>
 
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
+								<!--								<a href="#" target="_blank" class="external-link">-->
+								<!--									<i class="icon-Link"></i>-->
+								<!--								</a>-->
+							</div>
+							<!-- //.project-link -->
 
-                            <div class="project-title">
-                                <h4>Security</h4>
-                            </div>
-                            <!-- //.project-title -->
+							<div class="project-title">
+								<h4>Project Management</h4>
+							</div>
+							<!-- //.project-title -->
 
-                            <img src="/assets/img/portfolio/project-image-1.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
+							<img src="/assets/img/portfolio/project-management.jpg" alt="" class="img-responsive"/>
+						</div>
+						<!-- //.project-wrapper -->
+					</div>
+					<!-- //.item -->
 
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-2.jpg" class="zoom" title="Construction">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
+					<div class="item col-sm-6 col-md-4">
+						<div class="project-wrapper">
+							<div class="project-link">
+								<a href="/assets/img/portfolio/consulting-orig.jpg" class="zoom" title="Consulting">
+									<i class="icon-Full-Screen"></i>
+								</a>
 
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
+								<!--								<a href="#" target="_blank" class="external-link">-->
+								<!--									<i class="icon-Link"></i>-->
+								<!--								</a>-->
+							</div>
+							<!-- //.project-link -->
 
-                            <div class="project-title">
-                                <h4>Construction</h4>
-                            </div>
-                            <!-- //.project-title -->
+							<div class="project-title">
+								<h4>Consulting</h4>
+							</div>
+							<!-- //.project-title -->
 
-                            <img src="/assets/img/portfolio/project-image-2.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-1.jpg" class="zoom" title="Security">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
-
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
-
-                            <div class="project-title">
-                                <h4>Security</h4>
-                            </div>
-                            <!-- //.project-title -->
-
-                            <img src="/assets/img/portfolio/project-image-1.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
-
-                    <div class="item col-sm-6 col-md-3">
-                        <div class="project-wrapper">
-                            <div class="project-link">
-                                <a href="/assets/img/portfolio/project-image-2.jpg" class="zoom" title="Construction">
-                                    <i class="icon-Full-Screen"></i>
-                                </a>
-
-                                <a href="#" target="_blank" class="external-link">
-                                    <i class="icon-Link"></i>
-                                </a>
-                            </div>
-                            <!-- //.project-link -->
-
-                            <div class="project-title">
-                                <h4>Construction</h4>
-                            </div>
-                            <!-- //.project-title -->
-
-                            <img src="/assets/img/portfolio/project-image-2.jpg" alt="" class="img-responsive"/>
-                        </div>
-                        <!-- //.project-wrapper -->
-                    </div>
-                    <!-- //.item -->
-                </div>
-                <!-- PORTFOLIO END -->
-            </div>
-            <!-- //.section-content -->
-        </div>
-        <!-- //.container-fluid -->
+							<img src="/assets/img/portfolio/consulting.jpg" alt="" class="img-responsive"/>
+						</div>
+						<!-- //.project-wrapper -->
+					</div>
+				</div>
+				<!-- PORTFOLIO END -->
+			</div>
+			<!-- //.section-content -->
+		</div>
+		<!-- //.container-fluid -->
 </section>
 <!-- //PORTFOLIO SECTION END -->
 
-
 <!-- SERVICES SECTION START -->
 <section id="services" class="section">
-    <div class="container section-wrapper">
-        <div class="section-content">
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2 text-center">
-                    <h2 class="section-title uppercase">What I'm Doing</h2>
+	<div class="container section-wrapper">
+		<div class="section-content">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center">
+					<h2 class="section-title uppercase">What I'm Doing</h2>
 
-                    <p class="section-subtitle">
-                        I love what I do. I take great pride in what I do. And I can't do something halfway, three-quarters, nine-tenths. If I'm going to do something, I go all the way.
-                    </p>
+					<p class="section-subtitle">
+						I love what I do. I take great pride in what I do. And I can't do something halfway, three-quarters, nine-tenths. If I'm going to do something, I go all the way.
+					</p>
 
-                    <span class="divider center"></span>
-                </div>
-                <!-- //.col-md-8 -->
-            </div>
-            <!-- //.row -->
+					<span class="divider center"></span>
+				</div>
+				<!-- //.col-md-8 -->
+			</div>
+			<!-- //.row -->
 
-            <!-- SERVICES START -->
-            <div class="services">
-                <div class="row">
-                    <div class="col-sm-4 col-md-4 item top dark-bg">
-                        <div class="inner-content">
-                            <i class="icon-Chess colored-text"></i>
+			<!-- SERVICES START -->
+			<div class="services">
+				<div class="row">
+					<div class="col-sm-4 col-md-4 item top dark-bg">
+						<div class="inner-content">
+							<i class="icon-Chess colored-text"></i>
 
-                            <h4 class="uppercase">1. Logistics</h4>
+							<h4 class="uppercase">1. Logistics</h4>
 
-                            <p class="text-grey">
-                                We can coordinate a detailed, complex operation involving many people, facilities, or supplies.
-                            </p>
-                        </div>
-                        <!-- //.inner-content -->
-                    </div>
-                    <!-- //.item -->
+							<p class="text-grey">
+								We can coordinate a detailed, complex operation involving many people, facilities, or supplies.
+							</p>
+						</div>
+						<!-- //.inner-content -->
+					</div>
+					<!-- //.item -->
 
-                    <div class="col-sm-4 col-md-4 item top">
-                        <div class="inner-content">
-                            <i class="icon-Shield colored-text"></i>
+					<div class="col-sm-4 col-md-4 item top">
+						<div class="inner-content">
+							<i class="icon-Shield colored-text"></i>
 
-                            <h4 class="uppercase">2. Security</h4>
+							<h4 class="uppercase">2. Security</h4>
 
-                            <p class="text-grey">
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                            </p>
-                        </div>
-                        <!-- //.inner-content -->
-                    </div>
-                    <!-- //.item -->
+							<p class="text-grey">
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<!-- //.inner-content -->
+					</div>
+					<!-- //.item -->
 
-                    <div class="col-sm-4 col-md-4 item top dark-bg">
-                        <div class="inner-content">
-                            <i class="icon-Crane colored-text"></i>
+					<div class="col-sm-4 col-md-4 item top dark-bg">
+						<div class="inner-content">
+							<i class="icon-Crane colored-text"></i>
 
-                            <h4 class="uppercase">3. Construction</h4>
+							<h4 class="uppercase">3. Construction</h4>
 
-                            <p class="text-grey">
-                                Let us take care of all your construction needs, from shovels to dump trucks, we can handle it.
-                            </p>
-                        </div>
-                        <!-- //.inner-content -->
-                    </div>
-                    <!-- //.item -->
-                </div>
-                <!-- //.row -->
+							<p class="text-grey">
+								Let us take care of all your construction needs, from shovels to dump trucks, we can handle it.
+							</p>
+						</div>
+						<!-- //.inner-content -->
+					</div>
+					<!-- //.item -->
+				</div>
+				<!-- //.row -->
 
-                <div class="row">
-                    <div class="col-sm-4 col-md-4 item">
-                        <div class="inner-content">
-                            <i class="icon-The-WhiteHouse colored-text"></i>
+				<div class="row">
+					<div class="col-sm-4 col-md-4 item">
+						<div class="inner-content">
+							<i class="icon-The-WhiteHouse colored-text"></i>
 
-                            <h4 class="uppercase">4. Real Estate</h4>
+							<h4 class="uppercase">4. Real Estate</h4>
 
-                            <p class="text-grey">
-                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-                            </p>
-                        </div>
-                        <!-- //.inner-content -->
-                    </div>
-                    <!-- //.item -->
+							<p class="text-grey">
+								Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+							</p>
+						</div>
+						<!-- //.inner-content -->
+					</div>
+					<!-- //.item -->
 
-                    <div class="col-sm-4 col-md-4 item dark-bg">
-                        <div class="inner-content">
-                            <i class="icon-Management colored-text"></i>
+					<div class="col-sm-4 col-md-4 item dark-bg">
+						<div class="inner-content">
+							<i class="icon-Management colored-text"></i>
 
-                            <h4 class="uppercase">5. Project Management</h4>
+							<h4 class="uppercase">5. Project Management</h4>
 
-                            <p class="text-grey">
-                                Project management is the application of processes, methods, knowledge, skills and experience to achieve the project objectives.
-                            </p>
-                        </div>
-                        <!-- //.inner-content -->
-                    </div>
-                    <!-- //.item -->
+							<p class="text-grey">
+								Project management is the application of processes, methods, knowledge, skills and experience to achieve the project objectives.
+							</p>
+						</div>
+						<!-- //.inner-content -->
+					</div>
+					<!-- //.item -->
 
-                    <div class="col-sm-4 col-md-4 item">
-                        <div class="inner-content">
-                            <i class="icon-Consulting colored-text"></i>
+					<div class="col-sm-4 col-md-4 item">
+						<div class="inner-content">
+							<i class="icon-Consulting colored-text"></i>
 
-                            <h4 class="uppercase">6. Consulting</h4>
+							<h4 class="uppercase">6. Consulting</h4>
 
-                            <p class="text-grey">
-                                We will provide you with expert advice professionally and effectively.
-                            </p>
-                        </div>
-                        <!-- //.inner-content -->
-                    </div>
-                    <!-- //.item -->
-                </div>
-                <!-- //.row -->
-            </div>
-            <!-- //SERVICES END -->
-        </div>
-        <!-- //.section-content -->
-    </div>
-    <!-- //.container -->
+							<p class="text-grey">
+								We will provide you with expert advice professionally and effectively.
+							</p>
+						</div>
+						<!-- //.inner-content -->
+					</div>
+					<!-- //.item -->
+				</div>
+				<!-- //.row -->
+			</div>
+			<!-- //SERVICES END -->
+		</div>
+		<!-- //.section-content -->
+	</div>
+	<!-- //.container -->
 </section>
 <!-- //SERVICES SECTION END -->
-
 
 <!-- STRENGHTS SECTION START -->
 <!--<section id="strenghts" class="section bg-image-yes">-->
@@ -953,7 +900,6 @@
 <!--&lt;!&ndash; //.container &ndash;&gt;-->
 <!--</section>-->
 <!--&lt;!&ndash; //RESUME SECTION END &ndash;&gt;-->
-
 
 <!-- REFERENCES SECTION START -->
 <!--<section id="references" class="section bg-image-yes">-->
@@ -1680,103 +1626,102 @@
 <!--</section>-->
 <!-- //WORK PROCESS SECTION END -->
 
-
 <!-- CONTACT SECTION START -->
 <section id="contact" class="section">
-    <div class="container section-wrapper">
-        <div class="section-content">
-            <div class="row">
-                <div class="col-md-12 text-center">
-                    <h2 class="section-title uppercase">Contact Us</h2>
+	<div class="container section-wrapper">
+		<div class="section-content">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h2 class="section-title uppercase">Contact Us</h2>
 
-                    <p class="section-subtitle">
-                        Have a project you'd like to discuss?
-                    </p>
+					<p class="section-subtitle">
+						Have a project you'd like to discuss?
+					</p>
 
-                    <span class="divider center"></span>
-                </div>
-                <!-- //.col-md-12 -->
-            </div>
-            <!-- //.row -->
+					<span class="divider center"></span>
+				</div>
+				<!-- //.col-md-12 -->
+			</div>
+			<!-- //.row -->
 
-            <div class="row">
-                <div class="col-md-8 col-md-offset-2">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2">
 
-                    <!-- CONTACT FORM START -->
-                    <form action="/contact/json_submit.html" method="post" name="contact-form" id="contact-form" class="contact-form validate element-line" role="form">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <div class="input-group input-group-lg">
-                                        <input type="text" name="name" id="name" class="form-control required" placeholder="Name" autocomplete="off">
-                                    </div>
-                                    <!-- //.input-group -->
-                                </div>
-                                <!-- //.form-group -->
-                            </div>
-                            <!-- //.col-md-6 -->
+					<!-- CONTACT FORM START -->
+					<form action="/contact/json_submit.html" method="post" name="contact-form" id="contact-form" class="contact-form validate element-line" role="form">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="form-group">
+									<div class="input-group input-group-lg">
+										<input type="text" name="name" id="name" class="form-control required" placeholder="Name" autocomplete="off">
+									</div>
+									<!-- //.input-group -->
+								</div>
+								<!-- //.form-group -->
+							</div>
+							<!-- //.col-md-6 -->
 
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <div class="input-group input-group-lg">
-                                        <input type="email" name="email" id="email" class="form-control required email" placeholder="Email" autocomplete="off">
-                                    </div>
-                                    <!-- //.input-group -->
-                                </div>
-                                <!-- //.form-group -->
-                            </div>
-                            <!-- //.col-md-6 -->
-                        </div>
-                        <!-- //.row -->
+							<div class="col-md-6">
+								<div class="form-group">
+									<div class="input-group input-group-lg">
+										<input type="email" name="email" id="email" class="form-control required email" placeholder="Email" autocomplete="off">
+									</div>
+									<!-- //.input-group -->
+								</div>
+								<!-- //.form-group -->
+							</div>
+							<!-- //.col-md-6 -->
+						</div>
+						<!-- //.row -->
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <div class="input-group input-group-lg">
-                                        <input type="text" name="subject" id="subject" class="form-control required" placeholder="Subject" autocomplete="off">
-                                    </div>
-                                    <!-- //.input-group -->
-                                </div>
-                                <!-- //.form-group -->
-                            </div>
-                            <!-- //.col-md-12 -->
-                        </div>
-                        <!-- //.row -->
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<div class="input-group input-group-lg">
+										<input type="text" name="subject" id="subject" class="form-control required" placeholder="Subject" autocomplete="off">
+									</div>
+									<!-- //.input-group -->
+								</div>
+								<!-- //.form-group -->
+							</div>
+							<!-- //.col-md-12 -->
+						</div>
+						<!-- //.row -->
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <div class="input-group input-group-lg">
-                                        <textarea name="message" id="message" class="form-control required" placeholder="Message"></textarea>
-                                    </div>
-                                    <!-- //.input-group -->
-                                </div>
-                                <!-- //.form-group -->
-                            </div>
-                            <!-- //.col-md-12 -->
-                        </div>
-                        <!-- //.row -->
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<div class="input-group input-group-lg">
+										<textarea name="message" id="message" class="form-control required" placeholder="Message"></textarea>
+									</div>
+									<!-- //.input-group -->
+								</div>
+								<!-- //.form-group -->
+							</div>
+							<!-- //.col-md-12 -->
+						</div>
+						<!-- //.row -->
 
-                        <div class="row">
-                            <div class="col-md-12">
-                                <div class="form-group">
-                                    <button id="submit" type="submit">Send It</button>
-                                </div>
-                                <!-- //.form-group -->
-                            </div>
-                            <!-- //.col-md-12 -->
-                        </div>
-                        <!-- //.row -->
-                    </form>
-                    <!-- //CONTACT FORM END -->
+						<div class="row">
+							<div class="col-md-12">
+								<div class="form-group">
+									<button id="submit" type="submit">Send It</button>
+								</div>
+								<!-- //.form-group -->
+							</div>
+							<!-- //.col-md-12 -->
+						</div>
+						<!-- //.row -->
+					</form>
+					<!-- //CONTACT FORM END -->
 
-                </div>
-                <!-- //.col-md-8 -->
-            </div>
-            <!-- //.row -->
-        </div>
-        <!-- //.section-content -->
-    </div>
-    <!-- //.container -->
+				</div>
+				<!-- //.col-md-8 -->
+			</div>
+			<!-- //.row -->
+		</div>
+		<!-- //.section-content -->
+	</div>
+	<!-- //.container -->
 </section>
 <!-- //CONTACT SECTION END -->
